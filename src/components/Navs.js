@@ -11,8 +11,8 @@ function Navs() {
             text:'Home Page'
         },
         {
-            to:'/profile',
-            text:"Profile Page"
+            to:'/starred',
+            text:"Starred Page"
         }
     ]
 
